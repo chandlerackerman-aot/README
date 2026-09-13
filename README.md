@@ -20,8 +20,8 @@ I learn by building real things. I enjoy turning ideas into projects, experiment
 - **Learning Lab** — programming exercises, algorithms, and experiments.
 
 ## 🌐 Portfolio
-https://YOUR_USERNAME.github.io/
+https://chandlerackerman-aot.github.io/
 
 ## 📫 Connect
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/chandlerackerman-ao
 Email: YOUR_EMAIL@example.com
